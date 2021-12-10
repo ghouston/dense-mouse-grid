@@ -32,12 +32,12 @@ settings():
     ## ------- size settings
 
     # Set the size of the smaller blocks letter blocks.  This is the setting that ajusts the sizing of everything.  
-    user.full_mouse_grid_field_size = "40"
+    user.full_mouse_grid_field_size = "30"
 
     ## ------- overlay transparency settings. 
 
     #sets the transparecny of the large grid squares
-    user.full_mouse_grid_superblock_transparency = "0x77"
+    user.full_mouse_grid_superblock_transparency = "0x14"
 
     ##sets the transparency of the small blocks.
     user.full_mouse_grid_label_transparency = "0x44"
